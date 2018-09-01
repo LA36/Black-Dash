@@ -1,3 +1,1 @@
-Hello World - Testing!
-Suh!
-Not cool
+Hello World!
